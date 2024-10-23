@@ -3,6 +3,11 @@
 
 # Responsive Dashboard UI in Flutter 
 
+🔗 Read Medium Article : [Medium](https://medium.com/@chathubandara500/getting-started-with-flutter-a-beginners-guide-87dfa07c531a)
+![Flutter Beginner Guide](./assets/flutterBeginner.png)
+
+
+🔗 Read LinkedIn Article : [LinkedIn](https://www.linkedin.com/posts/chathuminibandara_are-you-ready-to-embark-on-a-journey-into-activity-7254970391016701953-CR54?utm_source=share&utm_medium=member_desktop)
 
 This project demonstrates a **responsive Flutter dashboard** that adapts to **mobile, tablet, and desktop** screens. It uses Flutter’s `LayoutBuilder` to adjust the UI based on the screen width, providing an optimized experience across various device types.
 
