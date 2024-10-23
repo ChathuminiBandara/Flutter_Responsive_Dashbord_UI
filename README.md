@@ -95,7 +95,7 @@ To get started with this project, follow these steps:
 
 ### Desktop
 #### Navigation Bar On
-![Desktop View - Navigation Bar On](./assets/Desktop.png)
+![Desktop View - Navigation Bar On](./assets/desktop.png)
 
 
 ## Contributing
