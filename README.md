@@ -10,7 +10,6 @@
 🔗 Read LinkedIn Article : [LinkedIn](https://www.linkedin.com/posts/chathuminibandara_are-you-ready-to-embark-on-a-journey-into-activity-7254970391016701953-CR54?utm_source=share&utm_medium=member_desktop)
 
 
-
 This project demonstrates a **responsive Flutter dashboard** that adapts to **mobile, tablet, and desktop** screens. It uses Flutter’s `LayoutBuilder` to adjust the UI based on the screen width, providing an optimized experience across various device types.
 
 ## Table of Contents
